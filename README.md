@@ -1,5 +1,8 @@
 # MI_Housing
-Ox_Core based housing system for players
+### Work in progress:
+- feature here_
 
-## Work in progress:
-- task
+### Docs:
+- [CFX Docs](https://docs.fivem.net/docs/)
+- [OverExtended](https://overextended.github.io/docs)
+- [Project Error](https://projecterror.dev/docs/)
